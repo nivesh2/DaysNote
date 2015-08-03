@@ -7,4 +7,3 @@ router.get('/update_password',user.update_password);
 router.get('/deactivate',user.deactivate);
 
 module.exports = router; 
-
