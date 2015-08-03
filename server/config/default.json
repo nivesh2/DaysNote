@@ -1,0 +1,11 @@
+{
+	"dbConfig":{
+			"username":"NNNNNN",
+			"password":"XXXXXX",
+			"host":"XXX.YYY.COM",
+			"port":"9999",
+			"database":"XXX"			
+		},
+	"connectionString":"postgres://UserName:PassWord@host/DatabaseName"
+	
+}
